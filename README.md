@@ -1,5 +1,5 @@
 ### Hello, I'm Arnav Verma
-###Aspiring Software Engineer | Python Learner | Future Full-Stack Developer
+### Aspiring Software Engineer | Python Learner | Future Full-Stack Developer
 ### I'm passionate about learning programming and building projects that improve my problem-solving skills.
 
 Currently Learning
