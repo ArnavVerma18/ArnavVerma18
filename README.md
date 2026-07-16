@@ -18,6 +18,16 @@ I'm an aspiring Software Engineer with a growing passion for Artificial Intellig
 - Learn Web Development
 - Contribute to Open Source
 
-Connect with Me
+## 🌐 Connect with Me
 
-- GitHub: https://github.com/ArnavVerma18
+<p align="left">
+  <a href="https://github.com/ArnavVerma18">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/your-username/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
