@@ -1,16 +1,32 @@
-## Hi there 👋
+Hello, I'm Arnav Verma
 
-<!--
-**ArnavVerma18/ArnavVerma18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer | Python Learner | Future Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about learning programming and building projects that improve my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning
+
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- Object-Oriented Programming
+
+
+Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+
+Goals for 2026
+
+- Learn Python thoroughly
+- Build 15+ projects
+- Master Data Structures & Algorithms
+- Learn Web Development
+- Contribute to Open Source
+
+Connect with Me
+
+- GitHub: https://github.com/ArnavVerma18
