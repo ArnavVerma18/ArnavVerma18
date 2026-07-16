@@ -1,6 +1,7 @@
 # Hello, I'm Arnav Verma
-#### Aspiring Software Engineer | Python Learner | Future Full-Stack Developer
-#### I'm passionate about learning programming and building projects that improve my problem-solving skills.
+Aspiring Software Engineer | Python Learner | Future Full-Stack Developer
+
+I'm an aspiring Software Engineer with a growing passion for Artificial Intelligence and Machine Learning. I enjoy learning new technologies, solving programming challenges, and building projects that strengthen my problem-solving skills.
 
 # Currently Learning
 
@@ -8,14 +9,6 @@
 - Data Structures & Algorithms
 - Git & GitHub
 - Object-Oriented Programming
-
-
-Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
 
 Goals for 2026
 
