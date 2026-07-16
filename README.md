@@ -18,7 +18,6 @@ I'm an aspiring Software Engineer with a growing passion for Artificial Intellig
 - Learn Web Development
 - Contribute to Open Source
 
-## 🌐 Connect with Me
 
 ## 🌐 Connect with Me
 
@@ -39,6 +38,10 @@ I'm an aspiring Software Engineer with a growing passion for Artificial Intellig
   <a href="https://discord.com/users/tenzii08">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+
+  <a href="mailto: arnav17072008@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
   
 </p>
