@@ -10,7 +10,7 @@ I'm an aspiring Software Engineer with a growing passion for Artificial Intellig
 - Git & GitHub
 - Object-Oriented Programming
 
-Goals for 2026
+# Future Goals
 
 - Learn Python thoroughly
 - Build 15+ projects
