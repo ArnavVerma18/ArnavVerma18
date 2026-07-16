@@ -12,11 +12,11 @@ I'm an aspiring Software Engineer with a growing passion for Artificial Intellig
 
 # Future Goals
 
-- Learn Python thoroughly
-- Build 15+ projects
+- Master Python and modern software development.
+- Build intelligent AI-powered applications that solve real-world problems.
 - Master Data Structures & Algorithms
-- Learn Web Development
-- Contribute to Open Source
+- Continuously learn emerging technologies in AI and Software Engineering.
+- Contribute to impactful open-source projects.
 
 
 ## 🌐 Connect with Me
