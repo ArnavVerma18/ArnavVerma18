@@ -11,13 +11,13 @@
 
 ## About me
 
-I'm an aspiring Software Engineer with a growing passion for Artificial Intelligence and Machine Learning. I like taking an idea from a rough concept to something that actually runs — figuring out the messy parts along the way is usually where I learn the most.
+I'm an aspiring Software Engineer with a growing passion for Artificial Intelligence. I like taking an idea from a rough concept to something that actually runs — figuring out the messy parts along the way is usually where I learn the most.
 
 Right now that means building things end-to-end: writing the code, debugging the parts that don't work the first time, and shipping something a little more polished than the last one.
 
 <br><br>
 
-## What I'm working with
+## Currently Learning
 
 <div align="center">
 
@@ -62,11 +62,6 @@ Right now that means building things end-to-end: writing the code, debugging the
 <a href="https://github.com/ArnavVerma18/atlas-assistant">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Atlas%20—%20Voice%20Assistant&fontSize=28&fontColor=22d3ee&fontAlignY=55&animation=fadeIn" />
 </a>
-
-A wake-word activated voice assistant, built from scratch in Python — no framework, no template. It listens, transcribes, routes commands, and talks back.
-
-<sub>Website automation · Wikipedia lookups · local music playback · natural voice output</sub>
-
 <br><br>
 
 [**Live Demo**](https://arnavverma18.github.io/atlas-assistant/) &nbsp;·&nbsp; [**Source Code**](https://github.com/ArnavVerma18/atlas-assistant)
