@@ -67,20 +67,6 @@ I'm an aspiring Software Engineer with a growing passion for Artificial Intellig
 </div>
 
 <br><br>
-
-## GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArnavVerma18&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f14&title_color=22d3ee&icon_color=8b5cf6&text_color=8b8fa3" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavVerma18&theme=dark&hide_border=true&background=0a0f14&stroke=0a0f14&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee" height="165" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavVerma18&layout=compact&theme=dark&hide_border=true&bg_color=0a0f14&title_color=22d3ee&text_color=8b8fa3" height="150" />
-
-</div>
-
 <br><br>
 
 ## Connect with Me
