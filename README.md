@@ -11,9 +11,7 @@
 
 ## About me
 
-I'm an aspiring Software Engineer with a growing passion for Artificial Intelligence. I like taking an idea from a rough concept to something that actually runs — figuring out the messy parts along the way is usually where I learn the most.
-
-Right now that means building things end-to-end: writing the code, debugging the parts that don't work the first time, and shipping something a little more polished than the last one.
+I'm an aspiring Software Engineer with a growing passion for Artificial Intelligence. I enjoy learning new technologies, solving programming challenges, and building projects that strengthen my problem-solving skills.
 
 <br><br>
 
