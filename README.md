@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm an aspiring Software Engineer with a growing passion for Artificial Intelligence and Machine Learning. I enjoy learning new technologies, solving programming challenges, and building projects that strengthen my problem-solving skills.
+I'm an aspiring Software Engineer with a growing passion for Artificial Intelligence. I enjoy learning new technologies, solving programming challenges, and building projects that strengthen my problem-solving skills.
 
 <br>
 
