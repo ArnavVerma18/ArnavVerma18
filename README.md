@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b14,50:2a1a4a,100:0a0714&height=200&section=header&text=Arnav%20Verma&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Python%20Developer&descSize=15&descAlignY=62&descColor=8b8fa3&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:080b14&height=200&section=header&text=Arnav%20Verma&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Python%20Developer&descSize=15&descAlignY=62&descColor=e4edf2" />
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&lines=building+things+in+python;currently+learning+DSA+%26+ML;always+shipping+something" />
