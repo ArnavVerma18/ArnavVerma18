@@ -62,7 +62,7 @@ I'm an aspiring Software Engineer with a growing passion for Artificial Intellig
 
 A wake-word activated Python voice assistant with website automation, Wikipedia lookups, and local music playback.
 
-[**Live Demo**](https://arnavverma18.github.io/atlas-assistant/) &nbsp;·&nbsp; [**Source**](https://github.com/ArnavVerma18/atlas-assistant)
+[**Explore Atlas**](https://arnavverma18.github.io/atlas-assistant/) &nbsp;·&nbsp; [**Source**](https://github.com/ArnavVerma18/atlas-assistant)
 
 </div>
 
