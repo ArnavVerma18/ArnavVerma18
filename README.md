@@ -9,13 +9,31 @@
 
 <br>
 
-## About me
+<div align="center">
 
-I'm an aspiring Software Engineer with a growing passion for Artificial Intelligence. I enjoy learning new technologies, solving programming challenges, and building projects that strengthen my problem-solving skills.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b14,50:2a1a4a,100:0a0714&height=200&section=header&text=Arnav%20Verma&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Python%20Developer&descSize=15&descAlignY=62&descColor=8b8fa3" />
 
 <br>
 
-## Currently learning
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=8B5CF6,22D3EE,FF7A6B&center=true&vCenter=true&width=650&height=40&lines=building+things+in+python;currently+learning+DSA+%26+ML;always+shipping+something" />
+
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=ArnavVerma18&color=8b5cf6&style=flat-square&label=profile+views)
+
+</div>
+
+<br><br>
+
+## About me
+
+I'm an aspiring Software Engineer with a growing passion for Artificial Intelligence and Machine Learning. I like taking an idea from a rough concept to something that actually runs — figuring out the messy parts along the way is usually where I learn the most.
+
+Right now that means building things end-to-end: writing the code, debugging the parts that don't work the first time, and shipping something a little more polished than the last one.
+
+<br><br>
+
+## What I'm working with
 
 <div align="center">
 
@@ -26,31 +44,32 @@ I'm an aspiring Software Engineer with a growing passion for Artificial Intellig
 
 </div>
 
-<br>
+<br><br>
 
-## Future goals
+## Where I'm headed
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Technical**
-- Master Python and modern software development
-- Build intelligent AI-powered applications that solve real-world problems
-- Master Data Structures & Algorithms
+**Sharpening the fundamentals**
+- Mastering Python and modern software development practices
+- Getting genuinely strong at Data Structures & Algorithms
+- Learning to write code that's built to be read, not just to run
 
 </td>
 <td width="50%" valign="top">
 
-**Beyond code**
-- Continuously learn emerging technologies in AI and Software Engineering
-- Contribute to impactful open-source projects
+**Building outward**
+- Shipping AI-powered applications that solve real problems, not just demo well
+- Staying close to what's new in AI and software engineering
+- Contributing to open-source projects that people actually use
 
 </td>
 </tr>
 </table>
 
-<br>
+<br><br>
 
 ## Featured project
 
@@ -60,13 +79,17 @@ I'm an aspiring Software Engineer with a growing passion for Artificial Intellig
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Atlas%20—%20Voice%20Assistant&fontSize=28&fontColor=22d3ee&fontAlignY=55&animation=fadeIn" />
 </a>
 
-A wake-word activated Python voice assistant with website automation, Wikipedia lookups, and local music playback.
+A wake-word activated voice assistant, built from scratch in Python — no framework, no template. It listens, transcribes, routes commands, and talks back.
 
-[**Explore Atlas**](https://arnavverma18.github.io/atlas-assistant/) &nbsp;·&nbsp; [**Source**](https://github.com/ArnavVerma18/atlas-assistant)
+<sub>Website automation · Wikipedia lookups · local music playback · natural voice output</sub>
+
+<br><br>
+
+[**Live Demo**](https://arnavverma18.github.io/atlas-assistant/) &nbsp;·&nbsp; [**Source Code**](https://github.com/ArnavVerma18/atlas-assistant)
 
 </div>
 
-<br>
+<br><br>
 
 ## GitHub stats
 
@@ -75,11 +98,15 @@ A wake-word activated Python voice assistant with website automation, Wikipedia 
 <img src="https://github-readme-stats.vercel.app/api?username=ArnavVerma18&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f14&title_color=22d3ee&icon_color=8b5cf6&text_color=8b8fa3" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavVerma18&theme=dark&hide_border=true&background=0a0f14&stroke=0a0f14&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee" height="165" />
 
-</div>
-
 <br>
 
-## Connect with me
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavVerma18&layout=compact&theme=dark&hide_border=true&bg_color=0a0f14&title_color=22d3ee&text_color=8b8fa3" height="150" />
+
+</div>
+
+<br><br>
+
+## Let's talk
 
 <p align="center">
   <a href="https://github.com/ArnavVerma18"><img src="https://img.shields.io/badge/GitHub-0a0f14?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -88,3 +115,9 @@ A wake-word activated Python voice assistant with website automation, Wikipedia 
   <a href="https://discord.com/users/tenzii08"><img src="https://img.shields.io/badge/Discord-0a0f14?style=for-the-badge&logo=discord&logoColor=8b5cf6" /></a>
   <a href="mailto:arnav17072008@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f14?style=for-the-badge&logo=gmail&logoColor=22d3ee" /></a>
 </p>
+
+<br>
+
+<div align="center">
+<sub>Always up for a conversation about code, AI, or the next thing to build.</sub>
+</div>
