@@ -83,7 +83,7 @@ I'm an aspiring Software Engineer with a growing passion for Artificial Intellig
 
 <br><br>
 
-## Let's talk
+## Connect with Me
 
 <p align="center">
   <a href="https://github.com/ArnavVerma18"><img src="https://img.shields.io/badge/GitHub-0a0f14?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -95,6 +95,3 @@ I'm an aspiring Software Engineer with a growing passion for Artificial Intellig
 
 <br>
 
-<div align="center">
-<sub>Always up for a conversation about code, AI, or the next thing to build.</sub>
-</div>
