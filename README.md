@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b14,50:2a1a4a,100:0a0714&height=200&section=header&text=Arnav%20Verma&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Python%20Developer&descSize=15&descAlignY=62&descColor=8b8fa3" />
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=8B5CF6,22D3EE,FF7A6B&center=true&vCenter=true&width=650&height=40&lines=building+things+in+python;currently+learning+DSA+%26+ML;always+shipping+something" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=40&lines=building+things+in+python;currently+learning+DSA+%26+ML;always+shipping+something" />
 
 </div>
 
