@@ -19,7 +19,6 @@
 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=ArnavVerma18&color=8b5cf6&style=flat-square&label=profile+views)
 
 </div>
 
